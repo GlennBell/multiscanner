@@ -35,7 +35,7 @@ Then run the following (substituting the actual file you want to scan for `<file
 ``` bash
 $ git clone https://github.com/mitre/multiscanner.git
 $ cd multiscanner
-$ sudo -HE ./install.sh
+$ ./install.sh
 $ multiscanner init
 ```
 
